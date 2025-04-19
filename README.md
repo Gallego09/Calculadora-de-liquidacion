@@ -33,7 +33,8 @@ git clone https:https://github.com/Gallego09/Calculadora-de-liquidacion
 
 Se ejecuta el archivo interfaz.py
 
-```📁 Estructura del proyecto
+📁 Estructura del proyecto
+```
 nombre-del-proyecto/
 │
 ├── README.md
