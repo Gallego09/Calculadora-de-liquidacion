@@ -26,7 +26,7 @@ pip install kivy
 
 ```bash
 git clone https:https://github.com/Gallego09/Calculadora-de-liquidacion
-cd tu_repositorio
+
 ```
 
 2. Ejecuta la aplicación:
